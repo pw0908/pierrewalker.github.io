@@ -1,0 +1,10 @@
+---
+title: "Introducing students to research codes: a short course on solving partial differential equations in Python"
+collection: publications
+permalink: /publication/2021-07-01-Intro_PDE
+excerpt: 'Recent releases of open-source research codes and solvers for numerically solving partial differential equations in Python present a great opportunity for educators to integrate these codes into the classroom in a variety of ways. The ease with which a problem can be implemented and solved using these codes reduce the barrier to entry for users. We demonstrate how one of these codes, FiPy, can be introduced to students through a short course using progression as the guiding philosophy. Four exercises of increasing complexity were developed. Basic concepts from more advanced numerical methods courses are also introduced at appropriate points. To further engage students, we demonstrate how an open research problem can be readily implemented and also incorporate the use of ParaView to post-process their results. Student engagement and learning outcomes were evaluated through a pre and post-course survey and a focus group discussion. Students broadly found the course to be engaging and useful with the ability to easily visualise the solution to PDEs being greatly valued. Due to the introductory nature of the course, due care in terms of set-up and the design of learning activities during the course is essential. This course, if integrated with appropriate level of support, can encourage students to use the provided codes and improve their understanding of concepts used in numerical analysis and PDEs.'
+date: 2021-07-01
+venue: 'Education for Chemical Engineers'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1749772821000117'
+citation: 'Inguva, P., Bhute, V.J., Cheng, T.N., Walker, P.J.. ‘Introducing Students to Solving Partial Differential Equations in Python’, Education for Chemical Engineers, 36, 1-11'
+---

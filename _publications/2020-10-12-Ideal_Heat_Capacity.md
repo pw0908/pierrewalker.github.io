@@ -1,0 +1,10 @@
+---
+title: "A new predictive group-contribution ideal-heat-capacity model, and its influence on second-derivative properties calculated using a free-energy equation of state"
+collection: publications
+permalink: /publication/2020-10-01-Ideal_Heat_Capacity
+excerpt: 'A statistical-thermodynamics-based group contribution (GC) method, commensurate with the GC methodology used in SAFT-$\gamma$ Mie, is proposed to model ideal heat capacities. Special treatment of halogenated groups allows many halogenated molecules to be modeled with few parameters. Parameters for small, single-group species agree well with experimental vibrational temperatures. Parameters corresponding to groups used for larger species highlight effects such as anharmonicity and torsional modes. The proposed correlation consistently demonstrates higher accuracy than that of Joback and Reid. Ideal heat capacities are seldom used in isolation, but contribute to other properties that may be used to assess the quality of an equation of state. The importance of the ideal free energy to various second-derivative properties, as calculated using the SAFT-$\gamma$ Mie equation of state, is examined. In the majority of cases, using the proposed correlation to calculate the ideal free energy results in more-accurately estimated second-derivative properties—sometimes substantially so. Further studies of the contribution of the ideal free energy are carried out revealing interesting behavior near the critical point that may relate to the Widom-Fisher and Widom lines.'
+date: 2020-10-12
+venue: 'J. Chem. Eng. Data'
+paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acs.jced.0c00723'
+citation: 'Walker, P. J., Haslam, A. J., ‘A new predictive group-contribution ideal-heat-capacity model, and its influence on second-derivative properties calculated using a free-energy equation of state’, J. Chem. Eng. Data 2020, 65, 12, 5809–5829'
+---
