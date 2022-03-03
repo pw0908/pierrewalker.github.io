@@ -1,0 +1,14 @@
+---
+title: "A new predictive group‐contribution ideal‐heat‐capacity model, and its influence on second derivative properties calculated using a free‐energy equation of state"
+collection: talks
+type: "Poster"
+permalink: /talks/2021-07-07-Post-ESAT2021_Ideal
+venue: "ESAT 2021 - 31st European Symposium on Applied Thermodynamics"
+date: 2021-07-07
+location: "Online"
+---
+A statistical-thermodynamics-based group contribution (GC) method, commensurate with the GC methodology used in SAFT-𝛾 Mie, is proposed to model ideal heat capacities. The approach uses four vibrational temperatures per group as adjustable parameters. Parameter estimation is performed on a training set of 215 molecules; the use of dimensionless heat capacities (reduced relative to their classical limits) allows for a more-even distribution of relative errors across molecular weights in homologous series than seen with existing approaches. (Although here treated as adjustable, parameters may alternatively be obtained from ab initio methods or experimental infrared spectra, providing an approach to the prediction of ideal heat capacities of species, such as ions and radicals, that would otherwise be difficult to treat.) A tailored approach for halogenated groups allows many halogenated molecules to be modelled with few parameters. Parameters for small, single-group species agree well with experimental vibrational temperatures; those corresponding to groups used for larger species highlight effects such as anharmonicity and torsional modes. The proposed correlation consistently demonstrates higher accuracy than that of Joback and Reid [1].
+
+Ideal heat capacities are seldom used in isolation, but contribute to other properties that may be used to assess the quality of an equation of state (EoS). The importance of the ideal free energy to various second-derivative properties, as calculated using the SAFT- g Mie EoS, is examined. In the majority of cases, using the proposed correlation to calculate the ideal free energy results in more-accurately estimated second-derivative properties – sometimes substantially so. Our examination offers insight into the weaker performance of SAFT in relation to isochoric cf. isobaric heat capacities (which has been reported for different SAFT variants). Further studies of the contribution of the ideal free energy reveal interesting behaviour near the critical point that may relate to the Widom-Fisher and Widom lines.
+
+[1] K.G. Joback and R.C. Reid, 1987. Estimation of pure-component properties from group-contributions, Chemical Engineering Communications, 57, 233–243. 
