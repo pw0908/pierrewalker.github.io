@@ -11,30 +11,64 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* California Institute of Technology, US: Ph.D in Chemical Engineering, 2021-present
+* Massachusetts Institute of Technology, US: Major in Chemical Engineering, 2019-2020 (5.0 GPA)
+* Imperial College London, UK: M.Eng in Chemical Engineering, 2017-2021 (81.7% average)
+* St. Andrews GV, Thailand: IB certification, 2010-2017 (43 points)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Centre for Energy Resources Engineering (2020-2021): Visiting researcher
+  * Technical University of Denmark
+  * Project: Compared various models of electrolyte mixtures and studied of the importance of the dielectric constant in these models. Also developed a brand-new combining rule to obtain parameters a priori for electrolyte systems in SAFT-VR Mie. 
+  * Supervisor: Professor Kontogeorgis and Professor Liang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Green Research Group (2019-2021): Undergraduate Researcher
+  * Massachusetts Institute of Technology
+  * Project: Improved the modelling of solvation properties within the Reaction Mechanism Generator (RMG) through group additivity methods to be used in the estimation of liquid-phase kinetics. Compared these methods to Machine Learning alternatives. Also performed a comparison between predictive thermodynamic models: SAFT-γ Mie and COSMO-RS.
+  * Supervisor: Professor Green and Yunsie Chung
+
+* Matar Fluids Group (2019-2021): Undergraduate Researcher
+  * Imperial College London 
+  * Project: Built a framework to solve the Cahn-Hilliard system of equations to model the spinodal decomposition of polymers using advanced thermodynamic models. The framework has successfully modelled systems using PC-SAFT, UNIFAC-FV and the Flory-Huggins equation. It has also been made available open source.
+  * Supervisor: Professor Matar and Dr. Haslam
+
+* Molecular Systems Engineering Research Group (2018-2021): Undergraduate Researcher
+  * Imperial College London 
+  * Project: Developed a new approach to modelling the ideal free energy, for use with SAFT (a state-of-the-art equation of state) to improve the modelling of thermal properties. Also performed an extensive study of the role of the ideal term in the overall equation of state.
+  * Supervisor: Dr. Haslam
+
+* StudentShapers (2018-present): Student Partner
+  * Imperial College London 
+  * Project: As part of the student-staff partnership programme, undertook a variety of pedagogical projects:
+    * Constructed and maintained a student-led chemical engineering wiki for the undergraduate cohort at Imperial.
+    * Developed and tested an accelerated course on Solidworks for undergraduate chemical engineers to be incorporated into an existing course module.
+    * Evaluated the role of student-led maker spaces in engineering education and how these may be facilitated or incentivised.
+  * Supervisor: Dr. Maraj
+
+* Qatar Carbonates and Carbon Storage Research Centre (2018): Undergraduate Researcher
+  * Imperial College London 
+  * Project: Modelled thermal behaviour of mixture cyclic alkanes, water and carbon dioxide. Sponsored by the QCCSRC.
+  * Supervisor: Professor Galindo and Dr. Haslam
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Coding:
+  * MATLAB
+  * Python
+  * LaTeX
+  * Julia
+* Advanced Research Software
+  * ORCA
+  * ASPEN
+  * gPROMS
+  * GAMS
+  * Solidworks
+  * COSMOtherm
+  * GROMACS
+* Languages:
+  * English
+  * French
 
 Publications
 ======
@@ -53,7 +87,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
