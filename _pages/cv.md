@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* California Institute of Technology, US: Ph.D in Chemical Engineering, 2021-present
+* California Institute of Technology, US: Ph.D in Chemical Engineering, 2021-present (4.2 GPA)
 * Massachusetts Institute of Technology, US: Major in Chemical Engineering, 2019-2020 (5.0 GPA)
 * Imperial College London, UK: M.Eng in Chemical Engineering, 2017-2021 (81.7% average)
 * St. Andrews GV, Thailand: IB certification, 2010-2017 (43 points)
@@ -58,14 +58,14 @@ Skills
   * Python
   * LaTeX
   * Julia
+  * C++/CUDA
 * Advanced Research Software
-  * ORCA
-  * ASPEN
-  * gPROMS
+  * Quantum Chemistry: ORCA, Jaguar
+  * Process Simulator: gPROMS, ASPEN
+  * Molecular Dynamics: GROMACS, LAMMPS
   * GAMS
   * Solidworks
   * COSMOtherm
-  * GROMACS
 * Languages:
   * English
   * French
